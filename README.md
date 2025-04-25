@@ -1,0 +1,1 @@
+The assignment is to write a small Java program that parses the attached file (shakespeare_historical_plays.txt) and prints the top 10 words by occurrence (and the number of time each appears in the file).
